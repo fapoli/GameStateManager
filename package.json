@@ -1,0 +1,15 @@
+{
+  "name": "com.moodylib.gamestatemanager",
+  "version": "1.0.0",
+  "displayName": "Game State Manager",
+  "description": "A simple framework to manage game states and transitions between them treating them as a stack.",
+  "author": {
+    "name": "Federico Poli",
+    "url": "https://github.com/fapoli"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fapoli/GameStateManager.git"
+  }
+}
+
